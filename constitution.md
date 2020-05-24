@@ -59,9 +59,10 @@ Our organization aims to:
 ### Article XII - Statement of Nondiscrimination 
 1. Membership in this organization is open to all students currently enrolled at Choate Rosemary Hall regardless of race, creed, color, sex, sexual orientation, or physical disability. 
 
-### Article XIII – Formatting of Communications
-1. For all official and unofficial communication of the club, the font family of monospace shall be used where applicable.
+### Article XIII – Transparency Committment
+1. All official club documents, decisions, election results, and communications sent or received on behalf of the club leadership or club proper, shall be quickly made freely and easily accessible, versioned on an open source immutable ledger, and stored in a machine readable format. 
+2. Git is an acceptable version control system.
+3. Tampering with club documents or the history of club documents is an impeachable offense.
 
 ## Signatories
 By signing this document, you are agreeing that the organization shall abide by the guidelines set forth in this constitution.
-
