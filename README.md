@@ -13,3 +13,6 @@ Choate Programming Union is a student-led organization aiming to improve access 
 All contributions are welcome and will be thoroughly considered for merging into master.
 
 **Note:** As per the pending amendments to the constitution, the git history in the master branch of this repo must not be tampered with.
+
+### Assets/Logo
+The animated logo was made by HP Park '21 from the original logo made by a graduated CPU member.
