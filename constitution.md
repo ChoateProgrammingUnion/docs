@@ -1,5 +1,4 @@
 ## Choate Programming Union Constitution
-*Last Updated on May 31, 2019*
 
 ### Article I - Name 
 The name of this organization shall be “Choate Programming Union” and shall be referred to as CPU when abbreviated. 
